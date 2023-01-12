@@ -19,4 +19,4 @@ After running imgSizer.py, input the name of the image you want to resize, add t
 -
 
 This ReadME file was created by MakeME, an open source readME file generator manufactured with OpenAI
-https://github.com/Puttycat/MakeME
+https://github.com/Daamss/MakeME
