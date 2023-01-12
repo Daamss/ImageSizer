@@ -1,4 +1,4 @@
-# imgSizer - A simple image resizer
+# imageSizer - A simple image resizer
 
 
 ## Description 
